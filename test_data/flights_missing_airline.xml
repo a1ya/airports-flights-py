@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<flight number="AD832">
+		<from>JFK</from>
+		<to>LAX</to>
+		<!-- <airline>Virgin America</airline> -->
+
+	</flight>
+	<flight number="AM13">
+		<from>ULLI</from>
+		<!-- <airline>S7</airline> -->
+		<to>Domodedovo</to>
+	</flight>
+</root>
